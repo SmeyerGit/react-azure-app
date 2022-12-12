@@ -2,10 +2,10 @@ import React from 'react';
 
 <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Seite in Bearbeitung...
+          dotSource
         </p>
+        <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
 
