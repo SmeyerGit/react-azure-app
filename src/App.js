@@ -5,5 +5,5 @@ function App() {
   return <div>Hellosss {value}</div>;
   <img src="C:\Users\nis\react-azure-app\public\dS_logo_rgb_1068_180.png" alt="Logo"></img>
 }
-
+<img src="C:\Users\nis\react-azure-app\public\dS_logo_rgb_1068_180.png" alt="Logo"></img>
 export default App;
