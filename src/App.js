@@ -1,9 +1,13 @@
 import React from 'react';
 
-function App() {
-  return <div>dotSource <img src='public\dS_logo_rgb_1068_180.png' alt='logo'></img></div>;
- 
-}
+<div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Seite in Bearbeitung...
+        </p>
+      </header>
+    </div>
 
 
 export default App;
