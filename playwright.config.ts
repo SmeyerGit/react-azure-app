@@ -2,7 +2,7 @@ import { PlaywrightTestConfig } from '@playwright/test';
 const config: PlaywrightTestConfig = {
     use: {
         trace: 'on',
-        baseURL: "http://localhost:3000/"
+        baseURL: "https://lemon-grass-001572b03.2.azurestaticapps.net/"
     },
     webServer: {
         command: 'npm run start',
