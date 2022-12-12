@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-        dotSource
+        Seite in Bearbeitung...
         </p>
         <img src="public\logo.png" className="App-logo" alt="logo" />
       </header>
