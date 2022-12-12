@@ -1,13 +1,15 @@
 import React from 'react';
 
-<div className="App">
+function App() {
+  return (
+    <div className="App">
       <header className="App-header">
         <p>
-          dotSource
+        dotSource
         </p>
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="public\logo.png" className="App-logo" alt="logo" />
       </header>
     </div>
-
-
+  );
+}
 export default App;
